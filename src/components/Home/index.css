@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.container {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+  height: 350px;
+  border-radius: 10px;
+  background-image: linear-gradient(to bottom, #2b2c49, #303150, #b5b8ff);
+}
+.button {
+  background-color: white;
+  color: #2b2c49;
+  border: 0px;
+  border-style: solid;
+  border-radius: 5px;
+}
